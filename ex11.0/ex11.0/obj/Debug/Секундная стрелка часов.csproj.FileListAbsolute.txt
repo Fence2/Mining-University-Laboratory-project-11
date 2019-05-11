@@ -1,0 +1,9 @@
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\bin\Debug\ex11.0.exe.config
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\bin\Debug\ex11.0.exe
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\bin\Debug\ex11.0.pdb
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\Секундная стрелка часов.csprojResolveAssemblyReference.cache
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\ex11._0.Form1.resources
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\ex11._0.Properties.Resources.resources
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\Секундная стрелка часов.csproj.GenerateResource.Cache
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\ex11.0.exe
+E:\Программирование\Лаб. работа №11\ex11.0\ex11.0\obj\Debug\ex11.0.pdb
